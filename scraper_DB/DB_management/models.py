@@ -5,7 +5,7 @@ from django.utils import timezone
 
 
 class FlightData(models.Model):
-    flight_name = models.CharField(max_length=64)
+    # flight_name = models.CharField(max_length=64)
     flight_st_date = models.DateField(default=timezone.now)
     flight_end_date = models.DateField(default=timezone.now)
     flight_st_time = models.TimeField(default=timezone.now)
