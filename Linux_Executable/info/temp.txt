@@ -1,6 +1,6 @@
 alias ohyeah="git status; git add .; git status"
 
-This 'ohyeah' command can be very beneficial in big projects, when we add something very often, this command will help to show the status before modifying the changes and the changes made after modification in online.
+This 'ohyeah' command can be very beneficial in big projects, when we add something very often, this command will help to show the status of the repository before and after applying the changes in the repository.
 
 alias yeah="cd ./Desktop; python3 NEW.py
 
