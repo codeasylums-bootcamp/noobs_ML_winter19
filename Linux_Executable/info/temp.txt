@@ -1,0 +1,10 @@
+alias ohyeah="git status; git add .; git status"
+
+This 'ohyeah' command can be very beneficial in big projects, when we add something very often, this command will help to show the status before modifying the changes and the changes made after modification in online.
+
+alias yeah="cd ./Desktop; python3 NEW.py
+
+This 'yeah' command is nothing but the python interactive script which first asks about the location you want to know the co-ordinates and details of, then It opens a page on the browser which shows the respective co-ordinates and details of the location, Like - country, currency, etc.
+
+
+Both these commands are saved on the .bashrc file so that, The terminal can respond to it permanently. 
