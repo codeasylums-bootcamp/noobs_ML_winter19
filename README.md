@@ -1,6 +1,6 @@
 # noobs_ML_winter19
 
 
-1- Would be making some features of Uber accesible on Linux command.
-2- Would be scrapping the data from Airline.
-3- Case Study
+1- Made a python script to access the Co-ordinates and details of entered address and made it executable on Linux terminal.
+2- Made a Backend-Database for Flight related web-scrapping.
+3- Case Study.
