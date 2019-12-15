@@ -1,0 +1,6 @@
+{% extends "DB_management/base.htm" %}
+{% block content %}
+        {% for flight in flights%}
+            <p>{{ flight.name }} &nbsp {{ flight.flight_number }} &nbsp {{ flight.tod }} &nbsp</p>
+        {% endfor %}
+{% endblock content %}
